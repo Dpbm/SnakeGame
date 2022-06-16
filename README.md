@@ -1,6 +1,6 @@
-# <center><h1>🐍 Snake Game V2 🐍</h1></center>
+<center><h1>🐍 Snake Game V2 🐍</h1></center>
 
-### <center><h2 style="font-size:45px; font-weight:bold;">My CS50 Final Project</h2></center>
+<center><h2 style="font-size:45px; font-weight:bold;">My CS50 Final Project</h2></center>
 
 ## - 🧠 About the idea of ​​the game 🧠
 
